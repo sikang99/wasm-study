@@ -37,7 +37,7 @@
 
 ### Information
 - MDN: [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-- [Grain](https://grain-lang.org/)
+- [Grain](https://grain-lang.org/) - WebAssembly first language
 - [WebAssembly Summit 2021](https://webassembly-summit.org/)
 - [WebAssembly Weekly](https://wasmweekly.news/)
 - [602 Open Source Webassembly Software Projects](https://opensourcelibs.com/libs/webassembly)
@@ -45,7 +45,7 @@
 - Chrome Platform Status: [Feature: WebAssembly](https://www.chromestatus.com/feature/5453022515691520)
 - [WebAssembly compilation pipeline](https://v8.dev/docs/wasm-compilation-pipeline)
 - W3cubeDocs/Javascript: [WebAssembly](https://docs.w3cub.com/javascript/global_objects/webassembly)
-- [Wasm By Example](https://wasmbyexample.dev/home.en-us.html)
+- [Wasm By Example](https://wasmbyexample.dev/home.en-us.html) - Rust, AssemblyScript (Typescript-like), Emscripten (C/C++), and much more!
 
 
 
