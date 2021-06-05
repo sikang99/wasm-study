@@ -15,6 +15,7 @@
 - [Grain](https://grain-lang.org/)
 - [WebAssembly Summit 2021](https://webassembly-summit.org/)
 - [WebAssembly Weekly](https://wasmweekly.news/)
+- [602 Open Source Webassembly Software Projects](https://opensourcelibs.com/libs/webassembly)
 
 
 ### Open source
