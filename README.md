@@ -41,7 +41,7 @@
 - [515 Open Source Wasm Software Projects](https://opensourcelibs.com/libs/wasm)
 - Chrome Platform Status: [Feature: WebAssembly](https://www.chromestatus.com/feature/5453022515691520)
 - [WebAssembly compilation pipeline](https://v8.dev/docs/wasm-compilation-pipeline)
-
+- W3cubeDocs/Javascript: [WebAssembly](https://docs.w3cub.com/javascript/global_objects/webassembly)
 
 
 ### Open source
