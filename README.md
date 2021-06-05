@@ -11,7 +11,10 @@
     - Vinarien, Blazor WebAssembly, Cheering, CheerpJ, Emscripten, forest, grain, JWebAssembly, Piyodide, TeaVM
 - 2021/05/10 [Updates on WAGI, the WebAssembly Gateway Interface](https://deislabs.io/posts/wagi-updates/)
 - 2021/05/10 [Grain: WebAssembly-First Programming Language](https://brianlovin.com/hn/27071060)
+- 2021/03/24 [FM Synthesis in the Browser with Rust, Web Audio, and WebAssembly with SIMD](https://cprimozic.net/blog/fm-synth-rust-wasm-simd/)
+- 2020/11/02 [Deeply Integrating Rust Wasm and Vue](https://dzone.com/articles/deeply-integrating-rust-wasm-and-vue)
 - 2018/08/01 [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 
+
 
 
 ### Information
