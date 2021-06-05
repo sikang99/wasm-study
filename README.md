@@ -45,6 +45,8 @@
 - Chrome Platform Status: [Feature: WebAssembly](https://www.chromestatus.com/feature/5453022515691520)
 - [WebAssembly compilation pipeline](https://v8.dev/docs/wasm-compilation-pipeline)
 - W3cubeDocs/Javascript: [WebAssembly](https://docs.w3cub.com/javascript/global_objects/webassembly)
+- [Wasm By Example](https://wasmbyexample.dev/home.en-us.html)
+
 
 
 ### Open source
