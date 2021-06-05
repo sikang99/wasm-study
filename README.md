@@ -7,7 +7,7 @@
 
 ### Information
 - [Grain](https://grain-lang.org/)
-
+- [WebAssembly Summit 2021](https://webassembly-summit.org/)
 
 
 ### Open source
