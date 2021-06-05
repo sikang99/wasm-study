@@ -1,8 +1,9 @@
 ## Terminology
 
 ### C
-- COOP : Cross Origin Opener Policy
 - COEP : Cross Origin Embedder Policy
+- COOP : Cross Origin Opener Policy
+- CORS : Cross-Origin Resource Sharing
 
 
 ### W
