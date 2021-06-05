@@ -19,6 +19,7 @@
 - [WebAssembly Summit 2021](https://webassembly-summit.org/)
 - [WebAssembly Weekly](https://wasmweekly.news/)
 - [602 Open Source Webassembly Software Projects](https://opensourcelibs.com/libs/webassembly)
+- [515 Open Source Wasm Software Projects](https://opensourcelibs.com/libs/wasm)
 
 
 ### Open source
