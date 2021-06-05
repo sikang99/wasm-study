@@ -4,6 +4,9 @@
 > enabling deployment on the web for client and server applications.
 
 
+### Standards
+- [DWARF for WebAssembly](https://yurydelendik.github.io/webassembly-dwarf/), Living Document, 31 August 2020
+
 ### Articles
 - 2021/06/02 [10 popular language projects using WebAssembly](https://floridanewstimes.com/10-popular-language-projects-using-webassembly/275791/)
     - Vinarien, Blazor WebAssembly, Cheering, CheerpJ, Emscripten, forest, grain, JWebAssembly, Piyodide, TeaVM
