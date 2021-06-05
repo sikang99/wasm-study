@@ -40,6 +40,7 @@
 ### Open source
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - The fastest WebAssembly interpreter, and the most universal runtime
 - [stagas/wel](https://github.com/stagas/wel) - wel is a webassembly wat text format to binary compiler
+- [WebAssembly/simd](https://github.com/WebAssembly/simd) - Branch of the spec repo scoped to discussion of SIMD in WebAssembly
 
 
 ### Papers
