@@ -25,6 +25,7 @@
 - 2020/10/26 [A Hands-On Introduction to WebAssembly With Go](https://levelup.gitconnected.com/a-hands-on-introduction-to-webassembly-with-go-959babb58109)
 - 2020/10/02 [Debugging WebAssembly with modern tools](https://developer.chrome.com/blog/wasm-debugging-2020/)
 - 2020/09/26 [What’s new in V8 8.6? Better WebAssembly!](https://blog.devgenius.io/whats-new-in-v8-8-6-better-webassembly-2a67abd766fa)
+- 2020/08/31 [WebAssembly Threads in Firefox](https://dzone.com/articles/webassembly-threads-in-firefox)
 - 2020/08/18 [Extreme WebAssembly 2: the sad state of WebAssembly tail calls](https://medium.com/leaningtech/extreme-webassembly-2-the-sad-state-of-webassembly-tail-calls-f5d48ef82a87)
 - 2020/06/29 [The Pain of Debugging WebAssembly](https://thenewstack.io/the-pain-of-debugging-webassembly/)
 - 2020/01/30 [Fast, parallel applications with WebAssembly SIMD](https://v8.dev/features/simd)
