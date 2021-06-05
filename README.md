@@ -17,6 +17,7 @@
 - 2021/04/22 [Chrome 91: Handwriting Recognition, WebXR Plane Detection and More](https://blog.chromium.org/2021/04/chrome-91-handwriting-recognition-webxr.html)
 - 2021/03/24 [FM Synthesis in the Browser with Rust, Web Audio, and WebAssembly with SIMD](https://cprimozic.net/blog/fm-synth-rust-wasm-simd/)
 - 2021/02/12 [Debugging WebAssembly with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
+- 2021/02/10 [How to debug WASM and achieve a reliable stack trace](https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/)
 - 2021/01/27 [The State of WebAssembly – 2020 and 2021](https://platform.uno/blog/the-state-of-webassembly-2020-and-2021/)
 - 2021/01/21 [VisualOn Supports HEVC Decoding and 4K Playback on the Web Side Based on WebAssembly](https://www.visualon.com/index.php/latest-news/visualon-supports-hevc-decoding-and-4k-playback-on-the-wed-side-based-on-webwassembly/)
 - 2021/00/00
