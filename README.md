@@ -17,6 +17,7 @@
 
 
 ### Information
+- MDN: [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [Grain](https://grain-lang.org/)
 - [WebAssembly Summit 2021](https://webassembly-summit.org/)
 - [WebAssembly Weekly](https://wasmweekly.news/)
