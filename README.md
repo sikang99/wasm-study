@@ -20,4 +20,5 @@
 
 
 ### Papers
+- 2021 [Довер´яй, но провер´яй: SFI safety for native-compiled Wasm](https://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf)
 - 2020 [Everything Old is New Again: Binary Security of WebAssembly](https://www.usenix.org/system/files/sec20-lehmann.pdf)
