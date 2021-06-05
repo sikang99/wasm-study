@@ -20,6 +20,7 @@
 - 2020/10/02 [Debugging WebAssembly with modern tools](https://developer.chrome.com/blog/wasm-debugging-2020/)
 - 2020/09/26 [What’s new in V8 8.6? Better WebAssembly!](https://blog.devgenius.io/whats-new-in-v8-8-6-better-webassembly-2a67abd766fa)
 - 2020/06/29 [The Pain of Debugging WebAssembly](https://thenewstack.io/the-pain-of-debugging-webassembly/)
+- 2020/01/30 [Fast, parallel applications with WebAssembly SIMD](https://v8.dev/features/simd)
 - 2018/08/01 [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 
 
 
