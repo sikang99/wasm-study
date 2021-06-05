@@ -14,3 +14,7 @@
 ### Open source
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - The fastest WebAssembly interpreter, and the most universal runtime
 - [stagas/wel](https://github.com/stagas/wel) - wel is a webassembly wat text format to binary compiler
+
+
+### Papers
+- 2020 [Everything Old is New Again: Binary Security of WebAssembly](https://www.usenix.org/system/files/sec20-lehmann.pdf)
