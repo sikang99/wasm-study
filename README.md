@@ -20,6 +20,7 @@
 - 2021/01/27 [The State of WebAssembly – 2020 and 2021](https://platform.uno/blog/the-state-of-webassembly-2020-and-2021/)
 - 2021/01/21 [VisualOn Supports HEVC Decoding and 4K Playback on the Web Side Based on WebAssembly](https://www.visualon.com/index.php/latest-news/visualon-supports-hevc-decoding-and-4k-playback-on-the-wed-side-based-on-webwassembly/)
 - 2021/00/00
+- 2020/11/23 [In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
 - 2020/11/02 [Deeply Integrating Rust Wasm and Vue](https://dzone.com/articles/deeply-integrating-rust-wasm-and-vue)
 - 2020/10/26 [A Hands-On Introduction to WebAssembly With Go](https://levelup.gitconnected.com/a-hands-on-introduction-to-webassembly-with-go-959babb58109)
 - 2020/10/02 [Debugging WebAssembly with modern tools](https://developer.chrome.com/blog/wasm-debugging-2020/)
