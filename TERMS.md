@@ -10,5 +10,6 @@
 - WAGI : WebAssembly Gateway Interface
 - WASI : WebAssembly System Interface
 - WASM : WebAssembly
+- WAT : WebAssembly Text
 
 
