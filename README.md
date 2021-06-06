@@ -73,7 +73,8 @@
 - [fastly labs: wasm](https://wasm.fastlylabs.com/)
 - [Bytecode Alliance](https://bytecodealliance.org/)
 - [Made with WebAssembly](https://madewithwebassembly.com/)
-
+- [WASI](https://wasi.dev/) - The WebAssembly System Interface
+    - [WebAssembly/WASI](https://github.com/WebAssembly/WASI)
 
 
 ### Open source
