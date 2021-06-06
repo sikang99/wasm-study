@@ -54,6 +54,7 @@
 - 2019/12/09 [WASI the new way of writing apps — Rutile News](https://medium.com/rutile/wasi-the-new-way-of-writing-apps-rutile-news-32b51847cba7)
 - 2019/06/26 [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.infoq.com/presentations/rust-webassembly-javascript/)
 - 2019/05/07 [WebAssembly, Rust, and Edge Computing](https://perevillega.com/webassembly-rust-edge-computing/)
+- 2019/04/05 [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study)](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
 - 2019/03/19 [**Standardizing WASI: A system interface to run WebAssembly outside the web**](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - 2018/08/01 [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 
 - 2017/05/30 [Write and Run WebAssembly in your browser with WasmFiddle!](https://hackernoon.com/write-and-run-webassembly-in-your-browser-today-77b39c92ead0)
