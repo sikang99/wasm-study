@@ -112,7 +112,7 @@
     - [Emscripten and the LLVM WebAssembly backend](https://v8.dev/blog/emscripten-llvm-wasm)
     - [Up to 4GB of memory in WebAssembly](https://v8.dev/blog/4gb-wasm-memory)
 - [TinyGo](https://tinygo.org/) - A Go Compiler For Small Places
-    - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Microcontrollers, WebAssembly, and command-line tools. Based on LLV
+    - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Microcontrollers, WebAssembly, and command-line tools. Based on LLVM
 
 
 ### Open source
