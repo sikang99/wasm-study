@@ -82,7 +82,7 @@
 - 2021 [Довер´яй, но провер´яй: SFI safety for native-compiled Wasm](https://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf)
 - 2020 [Everything Old is New Again: Binary Security of WebAssembly](https://www.usenix.org/system/files/sec20-lehmann.pdf)
 - 2020 [Formally Verifying WebAssembly with KWasm](https://odr.chalmers.se/bitstream/20.500.12380/300761/1/CSE%2020-08%20Hjort%20ODR.pdf)
-- 2020 [Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge](https://www2.seas.gwu.edu/~gparmer/publications/middleware20sledge.pdf)
+- 2020 [**Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge**](https://www2.seas.gwu.edu/~gparmer/publications/middleware20sledge.pdf)
 - 2020 [Considering WebAssembly Containers for Edge Computing on Hardware-Constrained IoT Devices](http://www.diva-portal.org/smash/get/diva2:1451494/FULLTEXT02.pdf)
 - 2020 [eWASM: Practical Software Fault Isolation for Reliable Embedded Devices](http://www.jahrhundert.net/papers/ewasm-paper-EMSOFT2020-CR.pdf)
 - 2019 [An Execution Model for Serverless Functions at the Edge](https://www.cc.gatech.edu/projects/up/publications/iotdi19-AdamHall.pdf)
