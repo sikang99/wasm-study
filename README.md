@@ -57,6 +57,10 @@
 - [WebAssembly/simd](https://github.com/WebAssembly/simd) - Branch of the spec repo scoped to discussion of SIMD in WebAssembly
 
 
+### Persons
+- [Max Graey](https://github.com/MaxGraey)
+
+
 ### Papers
 - 2021 [An Empirical Study of Real-World WebAssembly Binaries](https://software-lab.org/publications/www2021.pdf)
 - 2021 [Swivel: Hardening WebAssembly against Spectre](https://arxiv.org/pdf/2102.12730.pdf)
