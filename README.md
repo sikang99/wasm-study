@@ -99,7 +99,7 @@
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
 - [Awesome Wasm Tools](https://www.opensourceagenda.com/projects/awesome-wasm-tools)
 - Zoran Skoda's [WebAssembly](https://ncatlab.org/zoranskoda/show/WebAssembly)
-- [waSCC](https://wascc.dev/)
+- [waSCC](https://wascc.dev/)(Secure Capabilities Connector)
 - Mozilla Research: [WebAssembly](https://research.mozilla.org/webassembly/)
 - [WebAssembly Community Group](https://www.w3.org/community/webassembly/)
 - [asm.js](http://asmjs.org/)
