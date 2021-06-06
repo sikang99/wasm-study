@@ -87,6 +87,9 @@
 - Zoran Skoda's [WebAssembly](https://ncatlab.org/zoranskoda/show/WebAssembly)
 - [waSCC](https://wascc.dev/)
 - Mozilla Research: [WebAssembly](https://research.mozilla.org/webassembly/)
+- [WebAssembly Community Group](https://www.w3.org/community/webassembly/)
+- [asm.js](http://asmjs.org/)
+
 
 
 ### Open source
