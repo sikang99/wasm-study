@@ -34,6 +34,7 @@
 - 2021/01/14 [**What’s next, after Kubernetes?**](https://awesome.red-badger.com/stuartharris/wasmcloud/)
 - 2021/01/07 [Making FaaS aWsm: An efficient serverless Wasm runtime for the Edge](https://community.arm.com/developer/research/b/articles/posts/making-faas-awsm-an-efficient-serverless-wasm-runtime-for-the-edge)
 - 2021/01/06 [What’s Wrong with Web Assembly?](https://blog.bitsrc.io/whats-wrong-with-web-assembly-3b9abb671ec2)
+- 2021/01/05 [The Next Generation of Cloud Computing: Our Investment in Wasmer](https://www.speedinvest.com/blog/the-next-generation-of-cloud-computing-our-investment-in-wasmer)
 - 2021/00/00 ---
 - 2020/12/21 [Porting JavaScript or TypeScript to AssemblyScript](https://www.fastly.com/blog/porting-javascript-or-typescript-to-assemblyscript)
 - 2020/12/11 [**WebAssembly – Where is it going?**](https://opencredo.com/blogs/webassembly-where-is-it-going/)
@@ -143,6 +144,7 @@
 
 
 ### Papers
+- 2021 [Serverless Edge Computing: Vision and Challenges](https://dsg.tuwien.ac.at/team/sd/papers/AusPDC_2021_SD_Serverless.pdf)
 - 2021 [VM Matters: A Comparison of WASM VMs and EVMs in the Performance of Blockchain Smart Contracts](https://arxiv.org/pdf/2012.01032.pdf)
 - 2021 [**Computation at the Edge with WebAssembly**](https://link.springer.com/chapter/10.1007/978-3-030-70416-2_30)
 - 2021 [WebAssembly](https://www.isa-afp.org/browser_info/current/AFP/WebAssembly/document.pdf)
@@ -157,7 +159,6 @@
 - 2020 [WebAssembly and Vulkan API in Image Processing Development](http://ceur-ws.org/Vol-2650/paper39.pdf)
 - 2019 [An Execution Model for Serverless Functions at the Edge](https://www.cc.gatech.edu/projects/up/publications/iotdi19-AdamHall.pdf)
 - 2019 [AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting](https://publikationsserver.tu-braunschweig.de/servlets/MCRFileNodeServlet/dbbs_derivate_00046811/Goltzsche-AccTEE.pdf)
-
 
 
 
