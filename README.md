@@ -89,6 +89,7 @@
 - Mozilla Research: [WebAssembly](https://research.mozilla.org/webassembly/)
 - [WebAssembly Community Group](https://www.w3.org/community/webassembly/)
 - [asm.js](http://asmjs.org/)
+- [SwiftWasm](https://swiftwasm.org/index.html)
 
 
 
@@ -105,7 +106,7 @@
 - [deislabs/krustlet/](https://github.com/deislabs/krustlet/) - Kubernetes Rust Kubelet
 - [GoogleChromeLabs/wasm-av1](https://github.com/GoogleChromeLabs/wasm-av1) - Port of the AV1 Video codec to WebAssembly
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications
-
+- [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 
 
 ### Persons
