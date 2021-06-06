@@ -74,6 +74,7 @@
 - [WebAssembly/simd](https://github.com/WebAssembly/simd) - Branch of the spec repo scoped to discussion of SIMD in WebAssembly
 - [nilsbore/roswasm_suite](https://github.com/nilsbore/roswasm_suite) - Libraries for compiling C++ ROS nodes to Webassembly using Emscripten
 - [echamudi/opencv-wasm](https://github.com/echamudi/opencv-wasm) - Precompiled OpenCV 4.3.0 to JavaScript + WebAssembly for node and deno
+- [deislabs/krustlet/](https://github.com/deislabs/krustlet/) - Kubernetes Rust Kubelet
 
 
 ### Persons
