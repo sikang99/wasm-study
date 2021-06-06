@@ -68,6 +68,7 @@
 - [Second State](https://www.secondstate.io/) - Software is eating cars
 - [WebAssembly Studio](https://webassembly.studio/)
 - [fastly labs: wasm](https://wasm.fastlylabs.com/)
+- [Bytecode Alliance](https://bytecodealliance.org/)
 
 
 
