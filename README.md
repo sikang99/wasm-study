@@ -49,7 +49,8 @@
 - [WebAssembly compilation pipeline](https://v8.dev/docs/wasm-compilation-pipeline)
 - W3cubeDocs/Javascript: [WebAssembly](https://docs.w3cub.com/javascript/global_objects/webassembly)
 - [Wasm By Example](https://wasmbyexample.dev/home.en-us.html) - Rust, AssemblyScript (Typescript-like), Emscripten (C/C++), and much more!
-
+- [FFMPEG.WASM](https://ffmpegwasm.github.io/)
+    - [ffmpegwasm](https://github.com/ffmpegwasm) - ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg
 
 ### Open source
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - The fastest WebAssembly interpreter, and the most universal runtime
