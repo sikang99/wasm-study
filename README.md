@@ -104,6 +104,10 @@
 - [WebAssemblyOS](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html): Bulding a tiny OS with AssemblyScript and WebAssembly
 - [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
 - [WebAssembly](https://www.arewewebyet.org/topics/webassembly/), [Frontend (WebAssembly)](https://www.arewewebyet.org/topics/frameworks/#frontend)
+- [WebAssembly](https://changelog.com/topic/wasm)
+- [V8](https://v8.dev/): [Blog](https://v8.dev/blog)
+    - [Emscripten and the LLVM WebAssembly backend](https://v8.dev/blog/emscripten-llvm-wasm)
+    - [Up to 4GB of memory in WebAssembly](https://v8.dev/blog/4gb-wasm-memory)
 
 
 ### Open source
