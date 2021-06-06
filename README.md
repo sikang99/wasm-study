@@ -79,6 +79,8 @@
 - [Made with WebAssembly](https://madewithwebassembly.com/)
 - [WASI](https://wasi.dev/) - The WebAssembly System Interface
     - [WebAssembly/WASI](https://github.com/WebAssembly/WASI)
+- [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
+
 
 
 ### Open source
