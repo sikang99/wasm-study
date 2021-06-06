@@ -23,6 +23,7 @@
 - 2021/02/10 [How to debug WASM and achieve a reliable stack trace](https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/)
 - 2021/01/27 [The State of WebAssembly – 2020 and 2021](https://platform.uno/blog/the-state-of-webassembly-2020-and-2021/)
 - 2021/01/21 [VisualOn Supports HEVC Decoding and 4K Playback on the Web Side Based on WebAssembly](https://www.visualon.com/index.php/latest-news/visualon-supports-hevc-decoding-and-4k-playback-on-the-wed-side-based-on-webwassembly/)
+- 2021/01/07 [Making FaaS aWsm: An efficient serverless Wasm runtime for the Edge](https://community.arm.com/developer/research/b/articles/posts/making-faas-awsm-an-efficient-serverless-wasm-runtime-for-the-edge)
 - 2021/00/00
 - 2020/11/23 [In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
 - 2020/11/02 [Deeply Integrating Rust Wasm and Vue](https://dzone.com/articles/deeply-integrating-rust-wasm-and-vue)
@@ -83,6 +84,7 @@
 - 2020 [Formally Verifying WebAssembly with KWasm](https://odr.chalmers.se/bitstream/20.500.12380/300761/1/CSE%2020-08%20Hjort%20ODR.pdf)
 - 2020 [Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge](https://www2.seas.gwu.edu/~gparmer/publications/middleware20sledge.pdf)
 - 2020 [Considering WebAssembly Containers for Edge Computing on Hardware-Constrained IoT Devices](http://www.diva-portal.org/smash/get/diva2:1451494/FULLTEXT02.pdf)
+- 2020 [eWASM: Practical Software Fault Isolation for Reliable Embedded Devices](http://www.jahrhundert.net/papers/ewasm-paper-EMSOFT2020-CR.pdf)
 - 2019 [An Execution Model for Serverless Functions at the Edge](https://www.cc.gatech.edu/projects/up/publications/iotdi19-AdamHall.pdf)
 
 
