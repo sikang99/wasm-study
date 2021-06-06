@@ -153,7 +153,7 @@
 - 2020 [**Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge**](https://www2.seas.gwu.edu/~gparmer/publications/middleware20sledge.pdf)
 - 2020 [Considering WebAssembly Containers for Edge Computing on Hardware-Constrained IoT Devices](http://www.diva-portal.org/smash/get/diva2:1451494/FULLTEXT02.pdf)
 - 2020 [eWASM: Practical Software Fault Isolation for Reliable Embedded Devices](http://www.jahrhundert.net/papers/ewasm-paper-EMSOFT2020-CR.pdf)
+- 2020 [WebAssembly and Vulkan API in Image Processing Development](http://ceur-ws.org/Vol-2650/paper39.pdf)
 - 2019 [An Execution Model for Serverless Functions at the Edge](https://www.cc.gatech.edu/projects/up/publications/iotdi19-AdamHall.pdf)
-
 
 
