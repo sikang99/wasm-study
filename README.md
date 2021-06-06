@@ -35,6 +35,7 @@
 - 2020/08/13 [Debugging memory leaks in WebAssembly using Emscripten](https://web.dev/webassembly-memory-debugging/)
 - 2020/07/25 [Why TensorFlow.js introduced the WASM backend](https://www.programmersought.com/article/23254636146/)
 - 2020/06/29 [The Pain of Debugging WebAssembly](https://thenewstack.io/the-pain-of-debugging-webassembly/)
+- 2020/05/06 [Build decentralized edge computing based on WebAssembly and Trusted Computing](https://pushbar.medium.com/build-decentralized-edge-computing-based-on-webassembly-and-trusted-computing-0-of-n-73bf09cc0a0d)
 - 2020/01/30 [Fast, parallel applications with WebAssembly SIMD](https://v8.dev/features/simd)
 - 2020/00/00
 - 2019/05/07 [WebAssembly, Rust, and Edge Computing](https://perevillega.com/webassembly-rust-edge-computing/)
