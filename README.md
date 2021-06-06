@@ -20,6 +20,7 @@
 - 2021/05/10 [Grain: WebAssembly-First Programming Language](https://brianlovin.com/hn/27071060)
 - 2021/05/01 [WasmEdge (formerly SSVM) is now a CNCF Project](https://www.secondstate.io/articles/wasmedge-joins-cncf/)
 - 2021/04/22 [Chrome 91: Handwriting Recognition, WebXR Plane Detection and More](https://blog.chromium.org/2021/04/chrome-91-handwriting-recognition-webxr.html)
+- 2021/04/07 [Microsoft gets serious about WebAssembly](https://www.infoworld.com/article/3613873/microsoft-gets-serious-about-webassembly.html)
 - 2021/04/07 [WebAssembly runtimes compared](https://blog.logrocket.com/webassembly-runtimes-compared/)
 - 2021/04/01 [Web Assembly Deep Dive – How it Works, And Is It The Future?](https://coralogix.com/blog/web-assembly-deep-dive-how-it-works-and-is-it-the-future/)
 - 2021/03/29 [Build TFLite Wasm/SIMD and run Google Meet Virtual Background](https://dannadori.medium.com/build-tflite-wasm-simd-and-run-google-meet-virtual-background-6090226ed465)
@@ -73,6 +74,7 @@
 - [Grain](https://grain-lang.org/) - WebAssembly first, strongly typed language
 - [WebAssembly Summit 2021](https://webassembly-summit.org/)
 - [WebAssembly Weekly](https://wasmweekly.news/)
+- [WebAssembly Today](https://webassemblytoday.substack.com/)
 - [602 Open Source Webassembly Software Projects](https://opensourcelibs.com/libs/webassembly)
 - [515 Open Source Wasm Software Projects](https://opensourcelibs.com/libs/wasm)
 - [164 Open Source Emscripten Software Projects](https://opensourcelibs.com/libs/emscripten)
