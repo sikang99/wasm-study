@@ -39,7 +39,7 @@
 
 ### Information
 - MDN: [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
-- [Grain](https://grain-lang.org/) - WebAssembly first language
+- [Grain](https://grain-lang.org/) - WebAssembly first, strongly typed language
 - [WebAssembly Summit 2021](https://webassembly-summit.org/)
 - [WebAssembly Weekly](https://wasmweekly.news/)
 - [602 Open Source Webassembly Software Projects](https://opensourcelibs.com/libs/webassembly)
