@@ -49,6 +49,7 @@
 - 2020/06/01 [Introducing WASI-NN - by Mingqiu Sun & Andrew Brown (Intel)](https://www.w3.org/2020/06/machine-learning-workshop/talks/introducing_wasi_nn.html)
 - 2020/05/06 [Build decentralized edge computing based on WebAssembly and Trusted Computing](https://pushbar.medium.com/build-decentralized-edge-computing-based-on-webassembly-and-trusted-computing-0-of-n-73bf09cc0a0d)
 - 2020/01/30 [Fast, parallel applications with WebAssembly SIMD](https://v8.dev/features/simd)
+- 2020/01/04 [**WebAssembly: A Light at the End of the Tunnel**](https://serengetitech.com/tech/webassembly-a-light-at-the-end-of-the-tunnel/)
 - 2020/00/00 ---
 - 2019/12/09 [WASI the new way of writing apps — Rutile News](https://medium.com/rutile/wasi-the-new-way-of-writing-apps-rutile-news-32b51847cba7)
 - 2019/05/07 [WebAssembly, Rust, and Edge Computing](https://perevillega.com/webassembly-rust-edge-computing/)
