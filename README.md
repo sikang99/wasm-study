@@ -8,6 +8,7 @@
 
 ### Standards
 - [WebAssembly Web API](https://www.w3.org/TR/wasm-web-api/), W3C Recommendation, 5 December 2019
+- [WebAssembly JavaScript Interface](https://www.w3.org/TR/wasm-js-api/), W3C Recommendation, 5 December 2019
 - [DWARF for WebAssembly](https://yurydelendik.github.io/webassembly-dwarf/), Living Document, 31 August 2020
 
 
