@@ -85,6 +85,8 @@
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
 - [Awesome Wasm Tools](https://www.opensourceagenda.com/projects/awesome-wasm-tools)
 - Zoran Skoda's [WebAssembly](https://ncatlab.org/zoranskoda/show/WebAssembly)
+- [waSCC](https://wascc.dev/)
+- Mozilla Research: [WebAssembly](https://research.mozilla.org/webassembly/)
 
 
 ### Open source
