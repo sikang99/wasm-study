@@ -45,6 +45,7 @@
 - 2020/08/18 [Extreme WebAssembly 2: the sad state of WebAssembly tail calls](https://medium.com/leaningtech/extreme-webassembly-2-the-sad-state-of-webassembly-tail-calls-f5d48ef82a87)
 - 2020/08/17 [First steps with WebAssembly in Rust](https://aralroca.com/blog/first-steps-webassembly-rust)
 - 2020/08/13 [Debugging memory leaks in WebAssembly using Emscripten](https://web.dev/webassembly-memory-debugging/)
+- 2020/08/05 [Getting Started with React and WebAssembly using Hooks](https://codeburst.io/getting-started-with-react-and-webassembly-using-hooks-441818c91608)
 - 2020/07/25 [Why TensorFlow.js introduced the WASM backend](https://www.programmersought.com/article/23254636146/)
 - 2020/06/29 [The Pain of Debugging WebAssembly](https://thenewstack.io/the-pain-of-debugging-webassembly/)
 - 2020/06/01 [Introducing WASI-NN - by Mingqiu Sun & Andrew Brown (Intel)](https://www.w3.org/2020/06/machine-learning-workshop/talks/introducing_wasi_nn.html)
