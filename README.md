@@ -30,6 +30,7 @@
 - 2021/02/10 [How to debug WASM and achieve a reliable stack trace](https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/)
 - 2021/01/27 [The State of WebAssembly – 2020 and 2021](https://platform.uno/blog/the-state-of-webassembly-2020-and-2021/)
 - 2021/01/21 [VisualOn Supports HEVC Decoding and 4K Playback on the Web Side Based on WebAssembly](https://www.visualon.com/index.php/latest-news/visualon-supports-hevc-decoding-and-4k-playback-on-the-wed-side-based-on-webwassembly/)
+- 2021/01/14 [**What’s next, after Kubernetes?**](https://awesome.red-badger.com/stuartharris/wasmcloud/)
 - 2021/01/07 [Making FaaS aWsm: An efficient serverless Wasm runtime for the Edge](https://community.arm.com/developer/research/b/articles/posts/making-faas-awsm-an-efficient-serverless-wasm-runtime-for-the-edge)
 - 2021/01/06 [What’s Wrong with Web Assembly?](https://blog.bitsrc.io/whats-wrong-with-web-assembly-3b9abb671ec2)
 - 2021/00/00 ---
@@ -83,7 +84,7 @@
     - [WebAssembly/WASI](https://github.com/WebAssembly/WASI)
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
 - [Awesome Wasm Tools](https://www.opensourceagenda.com/projects/awesome-wasm-tools)
-
+- Zoran Skoda's [WebAssembly](https://ncatlab.org/zoranskoda/show/WebAssembly)
 
 
 ### Open source
