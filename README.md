@@ -110,6 +110,7 @@
 
 ### Slides
 - 2019 [Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration](http://acmsocc.org/2019/slides/socc19-slides-s1-jeong.pdf)
+- 2019 [Level up with WebAssembly](https://conferences.oreilly.com/oscon/oscon-or-2019/cdn.oreillystatic.com/en/assets/1/event/295/Level%20up%20your%20web%20apps%20with%20WebAssembly%20Presentation.pdf)
 
 
 ### Papers
