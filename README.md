@@ -18,6 +18,7 @@
 - 2021/04/22 [Chrome 91: Handwriting Recognition, WebXR Plane Detection and More](https://blog.chromium.org/2021/04/chrome-91-handwriting-recognition-webxr.html)
 - 2021/03/29 [Build TFLite Wasm/SIMD and run Google Meet Virtual Background](https://dannadori.medium.com/build-tflite-wasm-simd-and-run-google-meet-virtual-background-6090226ed465)
 - 2021/03/24 [FM Synthesis in the Browser with Rust, Web Audio, and WebAssembly with SIMD](https://cprimozic.net/blog/fm-synth-rust-wasm-simd/)
+- 2021/03/23 [WebAssembly Security, Now and in the Future](https://training.linuxfoundation.org/announcements/webassembly-security-now-and-in-the-future/)
 - 2021/02/19 [Boosting WebAssembly Performance with SIMD and Multi-Threading](https://www.infoq.com/articles/webassembly-simd-multithreading-performance-gains/)
 - 2021/02/12 [Debugging WebAssembly with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
 - 2021/02/10 [How to debug WASM and achieve a reliable stack trace](https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/)
@@ -25,6 +26,7 @@
 - 2021/01/21 [VisualOn Supports HEVC Decoding and 4K Playback on the Web Side Based on WebAssembly](https://www.visualon.com/index.php/latest-news/visualon-supports-hevc-decoding-and-4k-playback-on-the-wed-side-based-on-webwassembly/)
 - 2021/01/07 [Making FaaS aWsm: An efficient serverless Wasm runtime for the Edge](https://community.arm.com/developer/research/b/articles/posts/making-faas-awsm-an-efficient-serverless-wasm-runtime-for-the-edge)
 - 2021/00/00
+- 2020/12/11 [WebAssembly – Where is it going?](https://opencredo.com/blogs/webassembly-where-is-it-going/)
 - 2020/11/23 [In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
 - 2020/11/02 [Deeply Integrating Rust Wasm and Vue](https://dzone.com/articles/deeply-integrating-rust-wasm-and-vue)
 - 2020/10/26 [A Hands-On Introduction to WebAssembly With Go](https://levelup.gitconnected.com/a-hands-on-introduction-to-webassembly-with-go-959babb58109)
@@ -73,6 +75,10 @@
 
 ### Persons
 - [Max Graey](https://github.com/MaxGraey) - AssemblyScript
+
+
+### Slides
+- 2019 [Seamless Offloading of Web App Computations From Mobile Device to Edge Clouds via HTML5 Web Worker Migration](http://acmsocc.org/2019/slides/socc19-slides-s1-jeong.pdf)
 
 
 ### Papers
