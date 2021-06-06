@@ -21,6 +21,7 @@
 - 2021/05/01 [WasmEdge (formerly SSVM) is now a CNCF Project](https://www.secondstate.io/articles/wasmedge-joins-cncf/)
 - 2021/04/22 [Chrome 91: Handwriting Recognition, WebXR Plane Detection and More](https://blog.chromium.org/2021/04/chrome-91-handwriting-recognition-webxr.html)
 - 2021/04/07 [WebAssembly runtimes compared](https://blog.logrocket.com/webassembly-runtimes-compared/)
+- 2021/04/01 [Web Assembly Deep Dive – How it Works, And Is It The Future?](https://coralogix.com/blog/web-assembly-deep-dive-how-it-works-and-is-it-the-future/)
 - 2021/03/29 [Build TFLite Wasm/SIMD and run Google Meet Virtual Background](https://dannadori.medium.com/build-tflite-wasm-simd-and-run-google-meet-virtual-background-6090226ed465)
 - 2021/03/24 [FM Synthesis in the Browser with Rust, Web Audio, and WebAssembly with SIMD](https://cprimozic.net/blog/fm-synth-rust-wasm-simd/)
 - 2021/03/23 [WebAssembly Security, Now and in the Future](https://training.linuxfoundation.org/announcements/webassembly-security-now-and-in-the-future/)
@@ -30,6 +31,7 @@
 - 2021/01/27 [The State of WebAssembly – 2020 and 2021](https://platform.uno/blog/the-state-of-webassembly-2020-and-2021/)
 - 2021/01/21 [VisualOn Supports HEVC Decoding and 4K Playback on the Web Side Based on WebAssembly](https://www.visualon.com/index.php/latest-news/visualon-supports-hevc-decoding-and-4k-playback-on-the-wed-side-based-on-webwassembly/)
 - 2021/01/07 [Making FaaS aWsm: An efficient serverless Wasm runtime for the Edge](https://community.arm.com/developer/research/b/articles/posts/making-faas-awsm-an-efficient-serverless-wasm-runtime-for-the-edge)
+- 2021/01/06 [What’s Wrong with Web Assembly?](https://blog.bitsrc.io/whats-wrong-with-web-assembly-3b9abb671ec2)
 - 2021/00/00 ---
 - 2020/12/11 [**WebAssembly – Where is it going?**](https://opencredo.com/blogs/webassembly-where-is-it-going/)
 - 2020/11/23 [In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
@@ -80,6 +82,7 @@
 - [WASI](https://wasi.dev/) - The WebAssembly System Interface
     - [WebAssembly/WASI](https://github.com/WebAssembly/WASI)
 - [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
+- [Awesome Wasm Tools](https://www.opensourceagenda.com/projects/awesome-wasm-tools)
 
 
 
