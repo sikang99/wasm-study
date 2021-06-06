@@ -41,7 +41,9 @@
 - 2020/10/26 [A Hands-On Introduction to WebAssembly With Go](https://levelup.gitconnected.com/a-hands-on-introduction-to-webassembly-with-go-959babb58109)
 - 2020/10/02 [Debugging WebAssembly with modern tools](https://developer.chrome.com/blog/wasm-debugging-2020/)
 - 2020/09/26 [What’s new in V8 8.6? Better WebAssembly!](https://blog.devgenius.io/whats-new-in-v8-8-6-better-webassembly-2a67abd766fa)
+- 2020/09/10 [WebAssembly Beyond The Browser: Running WASM In .NET Core Applications With WASI & Wasmtime](https://www.thinktecture.com/en/webassembly/with-dotnet/)
 - 2020/08/31 [WebAssembly Threads in Firefox](https://dzone.com/articles/webassembly-threads-in-firefox)
+- 2020/08/24 [Motoko, a programming language for building directly on the internet](https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/)
 - 2020/08/18 [Extreme WebAssembly 2: the sad state of WebAssembly tail calls](https://medium.com/leaningtech/extreme-webassembly-2-the-sad-state-of-webassembly-tail-calls-f5d48ef82a87)
 - 2020/08/17 [First steps with WebAssembly in Rust](https://aralroca.com/blog/first-steps-webassembly-rust)
 - 2020/08/13 [Debugging memory leaks in WebAssembly using Emscripten](https://web.dev/webassembly-memory-debugging/)
@@ -50,6 +52,7 @@
 - 2020/06/29 [The Pain of Debugging WebAssembly](https://thenewstack.io/the-pain-of-debugging-webassembly/)
 - 2020/06/01 [Introducing WASI-NN - by Mingqiu Sun & Andrew Brown (Intel)](https://www.w3.org/2020/06/machine-learning-workshop/talks/introducing_wasi_nn.html)
 - 2020/05/06 [Build decentralized edge computing based on WebAssembly and Trusted Computing](https://pushbar.medium.com/build-decentralized-edge-computing-based-on-webassembly-and-trusted-computing-0-of-n-73bf09cc0a0d)
+- 2020/01/30 [WebAssembly: The Next Language of the Web](https://hashrocket.com/blog/posts/webassembly-the-next-language-of-the-web)
 - 2020/01/30 [Fast, parallel applications with WebAssembly SIMD](https://v8.dev/features/simd)
 - 2020/01/04 [**WebAssembly: A Light at the End of the Tunnel**](https://serengetitech.com/tech/webassembly-a-light-at-the-end-of-the-tunnel/)
 - 2020/00/00 ---
@@ -60,6 +63,7 @@
 - 2019/03/19 [**Standardizing WASI: A system interface to run WebAssembly outside the web**](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - 2018/08/21 [WebAssembly vs. the world. Should you use WebAssembly?](https://blog.sqreen.com/webassembly-performance/)
 - 2018/08/01 [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 
+- 2017/06/14 [Getting Started With WebAssembly](https://tutorialzine.com/2017/06/getting-started-with-web-assembly)
 - 2017/05/30 [Write and Run WebAssembly in your browser with WasmFiddle!](https://hackernoon.com/write-and-run-webassembly-in-your-browser-today-77b39c92ead0)
 
 
@@ -98,6 +102,8 @@
 - [asm.js](http://asmjs.org/)
 - [SwiftWasm](https://swiftwasm.org/index.html)
 - [WebAssemblyOS](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html): Bulding a tiny OS with AssemblyScript and WebAssembly
+- [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
+- [WebAssembly](https://www.arewewebyet.org/topics/webassembly/), [Frontend (WebAssembly)](https://www.arewewebyet.org/topics/frameworks/#frontend)
 
 
 ### Open source
@@ -114,8 +120,7 @@
 - [deislabs/krustlet/](https://github.com/deislabs/krustlet/) - Kubernetes Rust Kubelet
 - [GoogleChromeLabs/wasm-av1](https://github.com/GoogleChromeLabs/wasm-av1) - Port of the AV1 Video codec to WebAssembly
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications
-- [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
-- [WebAssembly](https://www.arewewebyet.org/topics/webassembly/), [Frontend (WebAssembly)](https://www.arewewebyet.org/topics/frameworks/#frontend)
+- [dfinity/motoko-base](https://github.com/dfinity/motoko-base) - The Motoko base library
 
 
 
