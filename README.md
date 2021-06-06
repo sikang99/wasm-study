@@ -37,6 +37,7 @@
 - 2020/06/29 [The Pain of Debugging WebAssembly](https://thenewstack.io/the-pain-of-debugging-webassembly/)
 - 2020/01/30 [Fast, parallel applications with WebAssembly SIMD](https://v8.dev/features/simd)
 - 2020/00/00
+- 2019/05/07 [WebAssembly, Rust, and Edge Computing](https://perevillega.com/webassembly-rust-edge-computing/)
 - 2018/08/01 [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 
 
 
