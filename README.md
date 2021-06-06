@@ -90,7 +90,7 @@
 - [WebAssembly Community Group](https://www.w3.org/community/webassembly/)
 - [asm.js](http://asmjs.org/)
 - [SwiftWasm](https://swiftwasm.org/index.html)
-
+- [WebAssemblyOS](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html): Bulding a tiny OS with AssemblyScript and WebAssembly
 
 
 ### Open source
