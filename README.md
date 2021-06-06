@@ -3,6 +3,8 @@
 > Wasm is designed as a portable target for compilation of high-level languages like C/C++/Rust, 
 > enabling deployment on the web for client and server applications.
 
+> “WebAssembly is a safe, portable, low-level code format designed for efficient execution and compact representation.” – W3C
+
 
 ### Standards
 - [WebAssembly Web API](https://www.w3.org/TR/wasm-web-api/), W3C Recommendation, 5 December 2019
