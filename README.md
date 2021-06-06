@@ -58,6 +58,7 @@
 - [FFMPEG.WASM](https://ffmpegwasm.github.io/)
     - [ffmpegwasm](https://github.com/ffmpegwasm) - ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg
 - DevTalk: [WASM](https://devtalk.com/wasm)
+- Edge Impluse: [Through WebAssembly (browser)](https://docs.edgeimpulse.com/docs/through-webassembly-browser)
 
 
 ### Open source
