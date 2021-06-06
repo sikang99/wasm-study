@@ -44,6 +44,7 @@
 - 2020/01/30 [Fast, parallel applications with WebAssembly SIMD](https://v8.dev/features/simd)
 - 2020/00/00
 - 2019/05/07 [WebAssembly, Rust, and Edge Computing](https://perevillega.com/webassembly-rust-edge-computing/)
+- 2019/03/19 [**Standardizing WASI: A system interface to run WebAssembly outside the web**](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - 2018/08/01 [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 
 
 
