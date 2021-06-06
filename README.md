@@ -96,7 +96,7 @@
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm)
 - [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) 
 - [vshymanskyy/awesome-wasm-tools](https://github.com/vshymanskyy/awesome-wasm-tools)
-- [jetli/awesome-yew](https://github.com/jetli/awesome-yew)
+- [jetli/awesome-yew](https://github.com/jetli/awesome-yew) - Yew / WebAssembly
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - The fastest WebAssembly interpreter, and the most universal runtime
 - [stagas/wel](https://github.com/stagas/wel) - wel is a webassembly wat text format to binary compiler
 - [WebAssembly/simd](https://github.com/WebAssembly/simd) - Branch of the spec repo scoped to discussion of SIMD in WebAssembly
