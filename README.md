@@ -7,6 +7,7 @@
 
 
 ### Standards
+- [WebAssembly Core Specification](https://webassembly.github.io/spec/core/bikeshed/), Editor’s Draft, 1 June 2021
 - [WebAssembly Web API](https://www.w3.org/TR/wasm-web-api/), W3C Recommendation, 5 December 2019
 - [WebAssembly JavaScript Interface](https://www.w3.org/TR/wasm-js-api/), W3C Recommendation, 5 December 2019
 - [DWARF for WebAssembly](https://yurydelendik.github.io/webassembly-dwarf/), Living Document, 31 August 2020
@@ -71,9 +72,13 @@
 - [WebAssembly Studio](https://webassembly.studio/)
 - [fastly labs: wasm](https://wasm.fastlylabs.com/)
 - [Bytecode Alliance](https://bytecodealliance.org/)
+- [Made with WebAssembly](https://madewithwebassembly.com/)
+
 
 
 ### Open source
+- [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm)
+- [appcypher/awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) 
 - [wasm3/wasm3](https://github.com/wasm3/wasm3) - The fastest WebAssembly interpreter, and the most universal runtime
 - [stagas/wel](https://github.com/stagas/wel) - wel is a webassembly wat text format to binary compiler
 - [WebAssembly/simd](https://github.com/WebAssembly/simd) - Branch of the spec repo scoped to discussion of SIMD in WebAssembly
