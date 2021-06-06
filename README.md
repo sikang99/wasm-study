@@ -56,6 +56,7 @@
 - 2019/05/07 [WebAssembly, Rust, and Edge Computing](https://perevillega.com/webassembly-rust-edge-computing/)
 - 2019/03/19 [**Standardizing WASI: A system interface to run WebAssembly outside the web**](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - 2018/08/01 [What is WebAssembly? The next-generation web platform explained](https://www.infoworld.com/article/3291780/what-is-webassembly-the-next-generation-web-platform-explained.html) 
+- 2017/05/30 [Write and Run WebAssembly in your browser with WasmFiddle!](https://hackernoon.com/write-and-run-webassembly-in-your-browser-today-77b39c92ead0)
 
 
 
@@ -109,6 +110,8 @@
 - [GoogleChromeLabs/wasm-av1](https://github.com/GoogleChromeLabs/wasm-av1) - Port of the AV1 Video codec to WebAssembly
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications
 - [swiftwasm/swift](https://github.com/swiftwasm/swift) - WebAssembly support for the Swift programming language
+- [WebAssembly](https://www.arewewebyet.org/topics/webassembly/), [Frontend (WebAssembly)](https://www.arewewebyet.org/topics/frameworks/#frontend)
+
 
 
 ### Persons
@@ -123,6 +126,7 @@
 
 
 ### Papers
+- 2021 [VM Matters: A Comparison of WASM VMs and EVMs in the Performance of Blockchain Smart Contracts](https://arxiv.org/pdf/2012.01032.pdf)
 - 2021 [**Computation at the Edge with WebAssembly**](https://link.springer.com/chapter/10.1007/978-3-030-70416-2_30)
 - 2021 [WebAssembly](https://www.isa-afp.org/browser_info/current/AFP/WebAssembly/document.pdf)
 - 2021 [An Empirical Study of Real-World WebAssembly Binaries](https://software-lab.org/publications/www2021.pdf)
