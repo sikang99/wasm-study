@@ -66,6 +66,9 @@
 - DevTalk: [WASM](https://devtalk.com/wasm)
 - Edge Impluse: [Through WebAssembly (browser)](https://docs.edgeimpulse.com/docs/through-webassembly-browser)
 - [Second State](https://www.secondstate.io/) - Software is eating cars
+- [WebAssembly Studio](https://webassembly.studio/)
+- [fastly labs: wasm](https://wasm.fastlylabs.com/)
+
 
 
 ### Open source
