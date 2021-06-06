@@ -58,7 +58,7 @@
 
 
 ### Persons
-- [Max Graey](https://github.com/MaxGraey)
+- [Max Graey](https://github.com/MaxGraey) - AssemblyScript
 
 
 ### Papers
