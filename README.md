@@ -34,6 +34,7 @@
 - 2021/01/07 [Making FaaS aWsm: An efficient serverless Wasm runtime for the Edge](https://community.arm.com/developer/research/b/articles/posts/making-faas-awsm-an-efficient-serverless-wasm-runtime-for-the-edge)
 - 2021/01/06 [What’s Wrong with Web Assembly?](https://blog.bitsrc.io/whats-wrong-with-web-assembly-3b9abb671ec2)
 - 2021/00/00 ---
+- 2020/12/21 [Porting JavaScript or TypeScript to AssemblyScript](https://www.fastly.com/blog/porting-javascript-or-typescript-to-assemblyscript)
 - 2020/12/11 [**WebAssembly – Where is it going?**](https://opencredo.com/blogs/webassembly-where-is-it-going/)
 - 2020/11/23 [In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
 - 2020/11/02 [Deeply Integrating Rust Wasm and Vue](https://dzone.com/articles/deeply-integrating-rust-wasm-and-vue)
