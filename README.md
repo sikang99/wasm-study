@@ -16,6 +16,7 @@
 - 2021/05/10 [Grain: WebAssembly-First Programming Language](https://brianlovin.com/hn/27071060)
 - 2021/05/01 [WasmEdge (formerly SSVM) is now a CNCF Project](https://www.secondstate.io/articles/wasmedge-joins-cncf/)
 - 2021/04/22 [Chrome 91: Handwriting Recognition, WebXR Plane Detection and More](https://blog.chromium.org/2021/04/chrome-91-handwriting-recognition-webxr.html)
+- 2021/03/29 [Build TFLite Wasm/SIMD and run Google Meet Virtual Background](https://dannadori.medium.com/build-tflite-wasm-simd-and-run-google-meet-virtual-background-6090226ed465)
 - 2021/03/24 [FM Synthesis in the Browser with Rust, Web Audio, and WebAssembly with SIMD](https://cprimozic.net/blog/fm-synth-rust-wasm-simd/)
 - 2021/02/12 [Debugging WebAssembly with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
 - 2021/02/10 [How to debug WASM and achieve a reliable stack trace](https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/)
