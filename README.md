@@ -63,9 +63,12 @@
 
 
 ### Papers
+- 2021 [WebAssembly](https://www.isa-afp.org/browser_info/current/AFP/WebAssembly/document.pdf
 - 2021 [An Empirical Study of Real-World WebAssembly Binaries](https://software-lab.org/publications/www2021.pdf)
 - 2021 [Swivel: Hardening WebAssembly against Spectre](https://arxiv.org/pdf/2102.12730.pdf)
 - 2021 [Довер´яй, но провер´яй: SFI safety for native-compiled Wasm](https://cseweb.ucsd.edu/~dstefan/pubs/johnson:2021:veriwasm.pdf)
 - 2020 [Everything Old is New Again: Binary Security of WebAssembly](https://www.usenix.org/system/files/sec20-lehmann.pdf)
 - 2020 [Formally Verifying WebAssembly with KWasm](https://odr.chalmers.se/bitstream/20.500.12380/300761/1/CSE%2020-08%20Hjort%20ODR.pdf)
+
+
 
