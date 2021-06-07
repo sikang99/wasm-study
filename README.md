@@ -29,6 +29,7 @@
 - 2021/02/19 [Boosting WebAssembly Performance with SIMD and Multi-Threading](https://www.infoq.com/articles/webassembly-simd-multithreading-performance-gains/)
 - 2021/02/12 [Debugging WebAssembly with Chrome DevTools](https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451)
 - 2021/02/10 [How to debug WASM and achieve a reliable stack trace](https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/)
+- 2021/02/08 [ONNX for image processing from scratch](https://towardsdatascience.com/onnx-for-image-processing-from-scratch-6694f9b141b0)
 - 2021/01/27 [The State of WebAssembly – 2020 and 2021](https://platform.uno/blog/the-state-of-webassembly-2020-and-2021/)
 - 2021/01/21 [VisualOn Supports HEVC Decoding and 4K Playback on the Web Side Based on WebAssembly](https://www.visualon.com/index.php/latest-news/visualon-supports-hevc-decoding-and-4k-playback-on-the-wed-side-based-on-webwassembly/)
 - 2021/01/14 [**What’s next, after Kubernetes?**](https://awesome.red-badger.com/stuartharris/wasmcloud/)
@@ -44,6 +45,7 @@
 - 2020/10/02 [Debugging WebAssembly with modern tools](https://developer.chrome.com/blog/wasm-debugging-2020/)
 - 2020/09/26 [What’s new in V8 8.6? Better WebAssembly!](https://blog.devgenius.io/whats-new-in-v8-8-6-better-webassembly-2a67abd766fa)
 - 2020/09/10 [WebAssembly Beyond The Browser: Running WASM In .NET Core Applications With WASI & Wasmtime](https://www.thinktecture.com/en/webassembly/with-dotnet/)
+- 2020/09/07 [How to Build Web Barcode Reader with Blazor WebAssembly](https://www.dynamsoft.com/codepool/web-barcode-reader-blazor-webassembly.html)
 - 2020/08/31 [WebAssembly Threads in Firefox](https://dzone.com/articles/webassembly-threads-in-firefox)
 - 2020/08/24 [Motoko, a programming language for building directly on the internet](https://stackoverflow.blog/2020/08/24/motoko-the-language-that-turns-the-web-into-a-computer/)
 - 2020/08/18 [Extreme WebAssembly 2: the sad state of WebAssembly tail calls](https://medium.com/leaningtech/extreme-webassembly-2-the-sad-state-of-webassembly-tail-calls-f5d48ef82a87)
@@ -161,6 +163,4 @@
 - 2020 [WebAssembly and Vulkan API in Image Processing Development](http://ceur-ws.org/Vol-2650/paper39.pdf)
 - 2019 [An Execution Model for Serverless Functions at the Edge](https://www.cc.gatech.edu/projects/up/publications/iotdi19-AdamHall.pdf)
 - 2019 [AccTEE: A WebAssembly-based Two-way Sandbox for Trusted Resource Accounting](https://publikationsserver.tu-braunschweig.de/servlets/MCRFileNodeServlet/dbbs_derivate_00046811/Goltzsche-AccTEE.pdf)
-
-
 
