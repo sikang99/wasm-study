@@ -14,6 +14,7 @@
 
 
 ### Articles
+- 2021/06/04 [The beauty of Web Assembly, music synthesis, and mathematics](https://illinoisnewstoday.com/the-beauty-of-web-assembly-music-synthesis-and-mathematics/230292/)
 - 2021/06/02 [10 popular language projects using WebAssembly](https://floridanewstimes.com/10-popular-language-projects-using-webassembly/275791/)
     - Vinarien, Blazor WebAssembly, Cheering, CheerpJ, Emscripten, forest, grain, JWebAssembly, Piyodide, TeaVM
 - 2021/05/10 [Updates on WAGI, the WebAssembly Gateway Interface](https://deislabs.io/posts/wagi-updates/)
