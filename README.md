@@ -116,6 +116,7 @@
     - [Up to 4GB of memory in WebAssembly](https://v8.dev/blog/4gb-wasm-memory)
 - [TinyGo](https://tinygo.org/) - A Go Compiler For Small Places
     - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Microcontrollers, WebAssembly, and command-line tools. Based on LLVM
+- [Wasmtime](https://wasmtime.dev/) - A small and efficient runtime for WebAssembly & WASI
 
 
 ### Open source
@@ -133,6 +134,7 @@
 - [GoogleChromeLabs/wasm-av1](https://github.com/GoogleChromeLabs/wasm-av1) - Port of the AV1 Video codec to WebAssembly
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications
 - [dfinity/motoko-base](https://github.com/dfinity/motoko-base) - The Motoko base library
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift
 
 
 
