@@ -1,0 +1,4 @@
+[[module]]
+module = "hello_clang.wasm"
+route = "/"
+
