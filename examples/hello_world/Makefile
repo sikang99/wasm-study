@@ -5,6 +5,9 @@ PROG=hello_world
 usage:
 	@echo "make [edit|build|run|buikd-run]"
 
+clean c:
+	rm -f $(PROG).wasm
+
 edit e:
 	vi $(PROG).c
 
@@ -15,3 +18,8 @@ run r:
 
 build-run br:
 	emcc --emrun $(PROG).c -s WASM=1 -o $(PROG).html
+
+
+git-update gu:
+	cd ..; make gu
+
