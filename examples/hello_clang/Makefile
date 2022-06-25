@@ -14,6 +14,8 @@ install-zig iz:
 	brew install zig
 install-wasmtime iw:
 	brew install wasmtime
+install-wagi ig:
+	wget https://github.com/deislabs/wagi/releases/download/v0.8.1/wagi-v0.8.1-macos-amd64.tar.gz
 
 clean c:
 	rm -rf $(PROG).wasm
