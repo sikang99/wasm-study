@@ -7,7 +7,8 @@ usage:
 	@echo "make [edit|build|run|buikd-run]"
 
 clean c:
-	rm -f $(PROG).wasm
+	rm -f *.wasm
+	rm -rf ./target
 
 edit e:
 	vi $(PROG).gr
