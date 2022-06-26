@@ -1,6 +1,7 @@
 
 
-PROG=hello_clang
+#PROG=hello_clang
+PROG=pascal
 
 usage:
 	@echo "make [edit|build|run|buikd-run]"
@@ -19,9 +20,14 @@ install-wagi ig:
 	wget https://github.com/deislabs/wagi/releases/download/v0.8.1/wagi-v0.8.1-macos-amd64.tar.gz
 install-wasienv ie:
 	curl https://raw.githubusercontent.com/wasienv/wasienv/master/install.sh | sh
+install-grain in:
+	sudo curl -L --output /usr/local/bin/grain \
+		https://github.com/grain-lang/grain/releases/download/grain-v0.5.1/grain-mac-x64 \
+		&& sudo chmod +x /usr/local/bin/grain
+
 
 clean c:
-	rm -rf $(PROG).wasm
+	rm -rf *.wasm
 
 edit e:
 	vi $(PROG).c
