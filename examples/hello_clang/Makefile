@@ -1,7 +1,7 @@
 
 
-#PROG=hello_clang
-PROG=pascal
+PROG=hello_clang
+#PROG=pascal
 
 usage:
 	@echo "make [edit|build|run|buikd-run]"
@@ -25,12 +25,13 @@ install-grain in:
 		https://github.com/grain-lang/grain/releases/download/grain-v0.5.1/grain-mac-x64 \
 		&& sudo chmod +x /usr/local/bin/grain
 
-
 clean c:
 	rm -rf *.wasm
 
 edit e:
 	vi $(PROG).c
+et:
+	vi *.toml
 
 build b:
 	@echo "make (build) [1|2|3]"
@@ -48,7 +49,7 @@ r1:
 r2:
 	wasmer $(PROG).wasm
 r3:
-	wagi -c modules.toml
+	wagi -c ./modules.toml
 
 
 git-update gu:
