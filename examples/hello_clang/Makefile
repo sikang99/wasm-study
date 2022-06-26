@@ -1,7 +1,7 @@
 
 
-PROG=hello_clang
-#PROG=pascal
+#PROG=hello_clang
+PROG=pascal
 
 usage:
 	@echo "make [edit|build|run|buikd-run]"

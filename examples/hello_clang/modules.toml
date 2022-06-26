@@ -1,4 +1,4 @@
 [[module]]
-module = "hello_clang.wasm"
+module = "pascal.wasm"
 route = "/"
 
