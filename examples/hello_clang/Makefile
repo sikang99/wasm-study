@@ -14,8 +14,11 @@ install-zig iz:
 	brew install zig
 install-wasmtime iw:
 	brew install wasmtime
+	brew install wasmer
 install-wagi ig:
 	wget https://github.com/deislabs/wagi/releases/download/v0.8.1/wagi-v0.8.1-macos-amd64.tar.gz
+install-wasienv ie:
+	curl https://raw.githubusercontent.com/wasienv/wasienv/master/install.sh | sh
 
 clean c:
 	rm -rf $(PROG).wasm
@@ -37,6 +40,8 @@ run r:
 r1:
 	wasmtime $(PROG).wasm
 r2:
+	wasmer $(PROG).wasm
+r3:
 	wagi -c modules.toml
 
 
