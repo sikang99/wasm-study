@@ -11,6 +11,10 @@ edit e:
 build b:
 	cargo build --target wasm32-wasi
 
+run r:
+	wasmtime $(PROG).wasm
+
+
 git-update gu:
 	cd ..; make gu
 
