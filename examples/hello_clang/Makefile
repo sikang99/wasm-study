@@ -1,11 +1,12 @@
 
 
-#PROG=hello_clang
+#PROG=hello
 PROG=pascal
+#PROG=fib
 
 usage:
 	@echo "make [edit|build|run|buikd-run]"
-
+#------------------------------------------------------------------------------------------------------------
 install i:
 	@echo "make (install) [sdk|zig]"
 install-sdk is:
@@ -24,15 +25,15 @@ install-grain in:
 	sudo curl -L --output /usr/local/bin/grain \
 		https://github.com/grain-lang/grain/releases/download/grain-v0.5.1/grain-mac-x64 \
 		&& sudo chmod +x /usr/local/bin/grain
-
+#------------------------------------------------------------------------------------------------------------
 clean c:
 	rm -rf *.wasm
-
+#------------------------------------------------------------------------------------------------------------
 edit e:
 	vi $(PROG).c
 et:
 	vi *.toml
-
+#------------------------------------------------------------------------------------------------------------
 build b:
 	@echo "make (build) [1|2|3]"
 b1:
@@ -41,7 +42,9 @@ b2:
 	clang --target=wasm32-wasi --sysroot=wasi-sdk-14.0/share/wasi-sysroot/ $(PROG).c -o $(PROG).wasm
 b3:
 	zig build-exe -O ReleaseSmall -target wasm32-wasi $(PROG).c -lc
-
+b4:
+	clang fib.c -o fib.wasm --target=wasm32 -nostdlib -fvisibility=default -Xlinker --no-entry -export-dynamic
+#------------------------------------------------------------------------------------------------------------
 run r:
 	@echo "make (run) [1|2]"
 r1:
@@ -50,8 +53,7 @@ r2:
 	wasmer $(PROG).wasm
 r3:
 	wagi -c ./modules.toml
-
-
+#------------------------------------------------------------------------------------------------------------
 git-update gu:
 	cd ..; make gu
 
